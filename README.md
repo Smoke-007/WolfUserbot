@@ -6,7 +6,7 @@
 # 🐺 WOLFUSERBOT
 
 
-[![Deploy](https://telegra.ph/file/277e2767055da1a50bea9.jpg)](https://heroku.com/deploy)
+[![Deploy](https://telegra.ph/file/f672d31dcfcc413d23f45.jpg)](https://heroku.com/deploy)
 
 
 
